@@ -1,0 +1,28 @@
+h1 {
+    color: whitesmoke;
+}
+
+* {
+    border: solid;
+}
+
+.header{
+    background-color:crimson;
+    display: flex;
+    justify-content: space-between;
+}
+
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.footer{
+    display: flex;
+    justify-content: center;
+}
+p, h2{
+    text-align: center;
+}
+
